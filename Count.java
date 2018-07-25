@@ -1,17 +1,14 @@
 public class Count {
-
-
-	Integer age=25;
-
-	
-
-	String greet;
+	Integer age=30;
+	String greet="hi";
 	int a;
 
 
-	public Integer count() {
-	System.out.println("Counting the countless"+ a);
-	return age;
+
+	public void count() {
+	System.out.println(age);
+	System.out.println(greet);
+
 	}
 	
 }

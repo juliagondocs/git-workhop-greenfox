@@ -3,6 +3,7 @@ public class Count {
 
 	public Integer count() {
 	return age;
+	System.out.println(1);
 	}
 	
 }

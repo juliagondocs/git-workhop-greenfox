@@ -7,7 +7,7 @@ public class Main {
 	// write your code here
         cheer();
 
-        String group = "Whitelabel Error";
+        String group = "Cheer";
         cheer(group);
     }
 

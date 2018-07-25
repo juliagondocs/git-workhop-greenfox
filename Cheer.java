@@ -3,12 +3,15 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        cheer();
 
+        String groupName = "Whitelabel Error";
+        cheer(groupName);
     }
 
-    public static void cheer () {
-        System.out.println("Whitelabel Error");
+    public static void cheer (String input) {
+
+
+        System.out.println(input);
     }
+
 }

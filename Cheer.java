@@ -7,10 +7,10 @@ public class Main {
 	// write your code here
         cheer();
 
-        String group = "Whitelabel Error";
-	String input2 = "secondparam";	
+         String group = "Cheer";
+        cheer(group);
 
-        cheer(group, input2);
+     
     }
 
     public static void cheer (String one, String two) {

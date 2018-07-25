@@ -1,8 +1,10 @@
 public class Count {
 
+
 	Integer age=25;
 
 	
+
 	String greet;
 	int a;
 

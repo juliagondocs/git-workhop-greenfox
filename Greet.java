@@ -4,7 +4,7 @@ public class Greet {
 		System.out.println("Greetings"); 
 
 	public void greet (String greeting) {
-		System.out.println(greeting + "Julcsika"); 
+		System.out.println(greeting + "Szilvi"); 
 
 	}
 }

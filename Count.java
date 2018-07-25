@@ -10,7 +10,7 @@ public class Count {
 
 
 	public Integer count() {
-	System.out.println(6);
+	System.out.println("Counting the countless"+ a);
 	return age;
 	}
 	

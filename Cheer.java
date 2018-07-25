@@ -7,11 +7,14 @@ public class Main {
 	// write your code here
         cheer();
 
-        String group = "Whitelabel Error";
+         String group = "Cheer";
         cheer(group);
+
+     
     }
 
-    public static void cheer () {
-        System.out.println("Java");
+    public static void cheer (String one, String two) {
+        System.out.println(one);
+	System.out.println(two);
     }
 }

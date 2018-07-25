@@ -3,8 +3,10 @@ public class Greet {
 	public void greet () {
 		System.out.println("Greetings"); 
 
-	public void greet (String greeting) {
-		System.out.println(greeting + "Szilvi"); 
+
+	public void greet (String greeting, String name) {
+		System.out.println(greeting + "Julcsika" + name); 
+
 
 	}
 }

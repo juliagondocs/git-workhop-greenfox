@@ -1,0 +1,222 @@
+commit 6bb4523b154c1bd1f7b72fcececa3844d2175952
+Merge: c1655dd 1a10f2f
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:22:51 2018 +0200
+
+    aaaaa
+
+commit c1655dd67126a7a1a5eb047e769d784ee888b74b
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:20:52 2018 +0200
+
+    aaaaa
+
+commit 7dd32ca74de6f82f1cd4fec13d4389b4ec2d29e0
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:19:44 2018 +0200
+
+    log list
+
+commit 1a10f2f5ee157a4c0d69a3528c6b5ddb6be3d319
+Merge: 27a6ba3 b436415
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:14:05 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 27a6ba3cc544204997c3976eb0507178b2f0be7b
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:13:41 2018 +0200
+
+    c3
+
+commit 40ca0c03c3ba65d24a1de30b668f52db9904ade6
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:13:36 2018 +0200
+
+    aaa
+
+commit b436415abb9d4019e9f3dfaf9e8870ba63b80a8e
+Merge: 65405fe 0cce86f
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:07:29 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 65405fe455b62285fd61cf8cd74c97d1d624fa9e
+Merge: 8f8522d 3e3ef87
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:06:50 2018 +0200
+
+    b3
+
+commit 0cce86fa9481af7ed4987515a64373202b10ed44
+Merge: d4ab7db 461b0a8
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 20:05:37 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit d4ab7dbc81543f99eb47034bd8a2266040669895
+Merge: 9003c39 9c148ca
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 20:04:58 2018 +0200
+
+    d3
+
+commit 461b0a8034557841d0c7265ecfaf74594976456f
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:03:56 2018 +0200
+
+    a3
+
+commit 8f8522db935f0bfcdcf2f938f08d1f13c8d50ee8
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:02:58 2018 +0200
+
+    b3
+
+commit 3e3ef8734e5f783c2112511cd332e2f41d83f052
+Merge: 6fb1906 5b1d1bd
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:00:46 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 6fb19066037380907a04a17e51d11d36744aa315
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:00:31 2018 +0200
+
+    c2
+
+commit 5b1d1bda429c7ae925cc51c1619096e9d18f7530
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:57:40 2018 +0200
+
+    a3
+
+commit 9003c39166a7c4734d16cffd2f0659cd436221a7
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:56:40 2018 +0200
+
+    d3ú
+
+commit 9c148ca4e55bb2f68dd61cc02b777b9c5f15f2b0
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 19:53:46 2018 +0200
+
+    b2
+
+commit b88426612eea1217d27755fbcf9de052cede4eec
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:52:49 2018 +0200
+
+    a2
+
+commit 09cdef2dfb7f76db4c9d49a7ddb00251a1e76917
+Merge: 333cc7d 4ae9ffd
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 19:52:06 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 4ae9ffd7568037bec4332bbbf22115ad11b58fb6
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 19:51:20 2018 +0200
+
+    b1
+
+commit 333cc7d8007ccda1716141e646ce83b9809ec1d2
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 19:51:10 2018 +0200
+
+    c1
+
+commit 3a76d5fc6e16dfd27b7dc375e259969043307157
+Merge: ce0d2ec 97210e4
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:49:59 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit ce0d2ec2836f64b515ceef8cf41f708a71d9d785
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:49:02 2018 +0200
+
+    d2
+
+commit 97210e42fc5fd6ede57f92413a9fd75842ca8750
+Merge: 2221e65 7592735
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 19:47:47 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 759273579a8574af0eec93cebc7aa47849bdccac
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:46:16 2018 +0200
+
+    d1
+
+commit 2221e654dd7fce6ad1a18be9f19f523d6bca995c
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 19:44:55 2018 +0200
+
+    c1
+
+commit 6500960cdbb0628aa472e8883e1adaa06a4dcfe8
+Merge: 0fa7224 0265f29
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:44:48 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 0265f29b52806ab5cdc6c9ea94e3616fc046d0bd
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:43:39 2018 +0200
+
+    a1
+
+commit 91e084ef7dcc311b58ec283bd2337059e1f379b9
+Merge: 63e8479 143f579
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:35:46 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 63e8479b3f25f6dc762caf4141e0c23a719fb062
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:35:25 2018 +0200
+
+    taks assigned
+
+commit 143f579b92323777a3402810ff6c4c46708e9738
+Author: Eszta <melnek.eszter@gmail.com>
+Date:   Wed Jul 25 19:34:44 2018 +0200
+
+    valami added
+
+commit 0fa7224c0c2e19bd09fda2c6303196ba4ef80631
+Merge: a77ddad 6cf728e
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:30:53 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 6cf728e1da8f90e73de5136b305eab43d6f901f8
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 19:28:54 2018 +0200
+
+    Add gitignore file
+
+commit a77ddadf6e746ca311a35ca391ea70f6e0b935f5
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:23:51 2018 +0200
+
+    test txt
+
+commit 61fafef40ac48f62d49844118903670be58f0dea
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 19:14:19 2018 +0200
+
+    init

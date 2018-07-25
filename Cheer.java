@@ -9,6 +9,6 @@ public class Main {
     }
 
     public static void cheer () {
-        System.out.println("Whitelabel Error");
+        System.out.println("Java");
     }
 }

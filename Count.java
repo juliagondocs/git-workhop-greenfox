@@ -1,5 +1,5 @@
 public class Count {
-	Integer age=28;
+	Integer age=25;
 
 	public Integer count() {
 	System.out.println(1);

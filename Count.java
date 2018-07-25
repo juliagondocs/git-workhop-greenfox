@@ -4,6 +4,7 @@ public class Count {
 
 	
 	String greet;
+	int a;
 
 
 	public Integer count() {

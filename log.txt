@@ -1,14 +1,80 @@
+commit 6bb4523b154c1bd1f7b72fcececa3844d2175952
+Merge: c1655dd 1a10f2f
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:22:51 2018 +0200
+
+    aaaaa
+
+commit c1655dd67126a7a1a5eb047e769d784ee888b74b
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:20:52 2018 +0200
+
+    aaaaa
+
+commit 7dd32ca74de6f82f1cd4fec13d4389b4ec2d29e0
+Author: juliagondocs <julia.gondocs@gmail.com>
+Date:   Wed Jul 25 20:19:44 2018 +0200
+
+    log list
+
+commit 1a10f2f5ee157a4c0d69a3528c6b5ddb6be3d319
+Merge: 27a6ba3 b436415
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:14:05 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 27a6ba3cc544204997c3976eb0507178b2f0be7b
+Author: kmikula <mikula_klara@yahoo.fr>
+Date:   Wed Jul 25 20:13:41 2018 +0200
+
+    c3
+
 commit 40ca0c03c3ba65d24a1de30b668f52db9904ade6
 Author: juliagondocs <julia.gondocs@gmail.com>
 Date:   Wed Jul 25 20:13:36 2018 +0200
 
     aaa
 
+commit b436415abb9d4019e9f3dfaf9e8870ba63b80a8e
+Merge: 65405fe 0cce86f
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:07:29 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit 65405fe455b62285fd61cf8cd74c97d1d624fa9e
+Merge: 8f8522d 3e3ef87
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:06:50 2018 +0200
+
+    b3
+
+commit 0cce86fa9481af7ed4987515a64373202b10ed44
+Merge: d4ab7db 461b0a8
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 20:05:37 2018 +0200
+
+    Merge branch 'master' of https://github.com/juliagondocs/git-workhop-greenfox
+
+commit d4ab7dbc81543f99eb47034bd8a2266040669895
+Merge: 9003c39 9c148ca
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 20:04:58 2018 +0200
+
+    d3
+
 commit 461b0a8034557841d0c7265ecfaf74594976456f
 Author: juliagondocs <julia.gondocs@gmail.com>
 Date:   Wed Jul 25 20:03:56 2018 +0200
 
     a3
+
+commit 8f8522db935f0bfcdcf2f938f08d1f13c8d50ee8
+Author: respublika <teglas.szilvia@gmail.com>
+Date:   Wed Jul 25 20:02:58 2018 +0200
+
+    b3
 
 commit 3e3ef8734e5f783c2112511cd332e2f41d83f052
 Merge: 6fb1906 5b1d1bd
@@ -28,6 +94,12 @@ Author: juliagondocs <julia.gondocs@gmail.com>
 Date:   Wed Jul 25 19:57:40 2018 +0200
 
     a3
+
+commit 9003c39166a7c4734d16cffd2f0659cd436221a7
+Author: ferenczievelin <37547193+ferenczievelin@users.noreply.github.com>
+Date:   Wed Jul 25 19:56:40 2018 +0200
+
+    d3ú
 
 commit 9c148ca4e55bb2f68dd61cc02b777b9c5f15f2b0
 Author: respublika <teglas.szilvia@gmail.com>

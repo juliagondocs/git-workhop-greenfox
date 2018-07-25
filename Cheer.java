@@ -8,10 +8,13 @@ public class Main {
         cheer();
 
         String group = "Whitelabel Error";
-        cheer(group);
+	String input2 = "secondparam";	
+
+        cheer(group, input2);
     }
 
-    public static void cheer () {
-        System.out.println("Java");
+    public static void cheer (String one, String two) {
+        System.out.println(one);
+	System.out.println(two);
     }
 }
